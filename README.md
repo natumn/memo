@@ -8,7 +8,7 @@
 
 - [オペレーティングシステム](https://github.com/phustly/memo/tree/master/operatingSystem)
 
-- [ウェブフロント]()
+- [ウェブフロント](https://github.com/phustly/memo/tree/master/frontend)
 
 - [サーバーサイド]()
 
@@ -21,6 +21,8 @@
 - [Linux]()
 
 - [データベース]()
+
+- [プログラミング全般]()
 
 - [その他]()
 
